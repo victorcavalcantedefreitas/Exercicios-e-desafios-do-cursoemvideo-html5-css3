@@ -3,4 +3,4 @@
 
  Estou aprendendo a gerenciar meu repositorio
 
- <a href="https://victorcavalcantedefreitas.github.io/Exercicios-e-desafios-do-cursoemvideo-html5-css3/execicios/ex001/index.html">Executar o exercicio 01</a>
+ <a href="https://victorcavalcantedefreitas.github.io/Exercicios-e-desafios-do-cursoemvideo-html5-css3/Exercicios/ex001/index.html">Executar o exercicio 01</a>
