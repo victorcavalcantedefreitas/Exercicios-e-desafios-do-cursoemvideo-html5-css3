@@ -1,0 +1,221 @@
+@font-face {
+    font-family: "Idroid";
+    src:    
+    url(fontes/idroid.otf)          
+    ;
+}
+body {
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+}
+p {
+    text-indent: 10px;
+    margin-left: 15px;
+}
+h1,h2 {
+    font-family: "Idroid";   
+}
+
+
+header#menu{
+    background: rgb(0,0,0);
+    background: linear-gradient(0deg, rgba(5, 5, 5, 0.763) 0%, rgb(7, 210, 91) 67%);
+    width: 1519 px;
+    margin-top: -8px;
+    height: fit-content;
+    display: block;
+}
+header#menu > h1 {
+    text-align: center;
+    color: white;
+    margin-top: 0px;
+    font-family: 'Courier New', Courier, monospace;
+}
+header#menu > p {
+    text-align: center;
+    color: white;
+    font-size: 18px;
+    margin-bottom: 8px;
+    margin-top: 8px;
+}
+header > section > a {
+    margin: 0px 10px 2px 20px;
+    color: white;
+    text-decoration: none;
+}
+header > section > a:hover {
+    text-decoration: underline;
+}
+/* Menu */
+
+
+
+article#historia {
+    background-color:rgb(52, 204, 41);
+    height: 2049px;
+}
+article#historia > p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div#caixameio {
+    margin-bottom: 0px;
+    height: 2049px;
+}
+
+h1#titulo1 {
+    margin: 0px auto 0px auto;
+    text-align: center;
+    background: rgb(255,255,255);   
+    width: 820px;
+}
+
+p#texto1 {
+    text-align: left;
+    font-size:15px;
+    background-color: white;
+    width: 820px;
+    height: 70px;
+    margin: 0px auto 0px auto;
+    text-indent: 10px;
+}
+h2#subtitulo2 {
+    margin: 0px auto 0px auto;
+    text-align: center;
+    background-color: white;
+    width: 820px;
+}
+p#texto2 {
+    margin: 0px auto 0px auto;
+    text-align: center;
+    background-color: white;
+    width: 820px;
+    text-align: left;
+    text-indent: 10px;
+}
+img#imagem1 {
+    margin: 0px auto 0px auto;
+    background-color: white;
+    width: 820px;
+}
+p#posimagem {
+    margin: 0px auto 0px auto;
+    text-align: center;
+    background-color: white;
+    width: 820px;
+    text-align: left;
+    text-indent: 10px;
+}
+h2#subtitulo3 {
+    margin: 0px auto 0px auto;
+    text-align: center;
+    background-color: white;
+    width: 820px;
+}
+p#texto3 {
+    margin: 0px auto 0px auto;
+    background-color: white;
+    width: 820px;
+    text-align: left;
+    text-indent: 10px;
+}
+p#texto4 {
+    margin: 0px auto 0px auto;
+    background-color: white;
+    width: 820px;
+    text-align: left; 
+    text-indent: 10px;
+}
+p#texto5 {
+    margin: 0px auto 0px auto;
+    background-color: white;
+    width: 820px;
+    text-align: left; 
+    text-indent: 10px;
+}
+
+img#irina-blok {
+    width: 800px;
+    margin-left: 10px;
+}
+img#bugdroid {
+    width: 400px;
+    margin-left: 160px;
+}
+iframe#video1 {
+    margin-left: 10px;
+    border-radius: 5px;
+    border: 10px;
+    border-color: green;
+}
+div#extra {
+    margin: 0px auto 0px auto;
+    background-color: white;
+    width: 820px; 
+    text-indent: 10px;
+
+}
+h2#textodoextra {
+    text-align: left;
+    margin: 0px auto 0px 20px;  
+    width: 775px;
+    border-radius: 5px;
+}
+p#texto1extra {
+    padding-left: 10px;
+    text-indent: 20px;
+}
+
+ul#lista {
+    text-decoration: none;
+    list-style-type: none;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+ul#lista > ul > li {
+    margin: 5px 0px 5px 0px;
+}
+ul#lista > li > a {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+ul#lista > li > a:hover {
+    color: rgb(37, 37, 211);
+}
+div#divlista {
+    background-color: rgb(158, 226, 22);
+    width: 800px;
+    height: 390;
+    margin-left: 10px;
+    border-radius: 0px 0px 5px 5px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+div#principal {
+    height: 400px;
+}
+
+div#cabecalhodoextra {
+    background-color: rgb(158, 226, 22);
+    width: 800px;
+    border-radius: 5px 5px 0px 0px;
+    margin: 0px 0px 0px 10px;
+}
+p#texto1extra {
+    margin: 16px 16px 0px 16px;
+}
+p#textoposlista,p#textoposlista2 {
+    margin-bottom: 0px;
+}
+
+div#rodape {
+
+text-align: center;
+background-color: blue;
+margin: 0px;
+height: 20px;
+}
+div#rodape > p {
+    margin: 0px;
+}

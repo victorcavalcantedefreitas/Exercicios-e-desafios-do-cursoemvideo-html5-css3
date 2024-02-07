@@ -1,0 +1,53 @@
+ repositorios: github.com/gustavoguanabara e gustavoguanabara.github.io
+
+referencias on-line: MDN - Mozilla Developer network, W3C: World Wide Web Consortium, WHATWG: Web Hypertext Application technology working group, W3Schools: Refsnes data
+
+utf8?
+
+html: focada em conteúdo: textos,imagens,videos,tabelas etc.
+
+css:design:cores,sombras,tamanhos,posicionamento
+
+JS-JavaScript: interações:menus,animações,popups,validações
+
+front-end: cliend side, visual
+
+back-end: server-side, entranhas do servidor, js,node,php,C#, python,ruby,java,banco de dados
+
+
+Contéudo em HTML
+ 
+<h1>PALMEIRAS</h1>
+<p>Campeão da supercopa 2024</p>
+<img src="pal.png"alt="meiras.png">
+
+estruturabasicahtml
+
+<!DOCTYPE html>
+<html lang="pt-br">
+     <head>
+       <meta charset= "UTF-8">
+       <meta name="viewport"
+       content="width=device-width,
+       initial-scale=1.0">
+       <title>document</title>         
+      </head>
+     
+     <body>
+         <h1>Olá,mundo!</h1>
+     
+     </body>
+
+
+</html>
+
+<hr> : linha horizontal
+<p> e </p>: paragrafo
+
+Contéudo em CSS
+
+h1{
+   font-family:Arial;
+   font-size:17pt;
+   color:green;
+  }                  
